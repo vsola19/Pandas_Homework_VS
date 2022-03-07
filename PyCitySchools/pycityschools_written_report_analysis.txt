@@ -1,0 +1,18 @@
+PyCitySchools Analysis
+- The first observable trend when looking at the difference between school type from the sample analysed, charter schools are performing better across the board in math and reading averages. 
+- Charter schools are also outperforming in the overall pass rate at 90% compared to just over 53% for district schools.
+- The size of the schools are also interesting here as small and medium schools (those under 2000 students) are showing much higher passing rates overall, when compared to those schools with population size of greater than 2000.
+- The top five schools analysed for overall passing rates show Charter schools, whilst the bottom five schools for overall passing rates show district schools.
+- When comparing grades within each school, for both math and/or reading, it appears that grades are remaining consistent across the grades (9th, 10th, 11th, and 12th). 
+
+-	The most significant finding for me with this assignment was the budgets. 
+
+- All seven district schools spent a minimum of $628 per student (Bailey High School being the lowest of all district schools), 
+yet each of these district schools performed poorly as their overall passing rates were between 52.9% - 54.6% (min – max).  
+The maximum spent by a district school per student was $655 (Huang High School being the highest of all district schools).
+
+- In comparison the eight charter schools spent a minimum of $578 per student (Wilson High School being the lowest of all charter schools),
+yet each of these charter schools performed well as their overall passing rates were between 89.2% - 91.3% (min-max). 
+The maximum spent by a charter school per student was $638 (Thomas High School being the highest of all charter schools).
+
+Governments, policy makers and relevant stakeholders would need to look at expenditure spending per student along with size of schools should overall passing rates become an issue to solve.
